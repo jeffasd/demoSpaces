@@ -1,3 +1,5 @@
+iOS coredata 里面有些错误需要自己识别，里面的coredata 内容还是很全的 
+coredata nsarray nsdictionary
 # demoSpaces
 平时练习的一些 demo. /   Some examples of usual practice
 
